@@ -1,6 +1,6 @@
 package com.mvl.controllers;
 
-//user class
+//user class controller
 public class UserController {
 
 }
